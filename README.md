@@ -24,10 +24,6 @@ A curated list of useful online tools for various purposes.
 
 Contributions are welcome! If you have any tools to add or improvements to suggest, please feel free to open a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to modify it to suit your preferences!
